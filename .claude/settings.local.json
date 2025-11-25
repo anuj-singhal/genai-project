@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(tree /L 2 \"C:\\Anuj\\AI\\genai-workbench-v3\")"
-    ],
-    "deny": [],
-    "ask": []
-  }
-}
