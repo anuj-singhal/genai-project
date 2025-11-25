@@ -1,0 +1,13 @@
+streamlit==1.29.0
+openai==1.6.1
+python-dotenv==1.0.0
+tiktoken==0.5.2
+chromadb==0.4.22
+langchain==0.1.0
+PyPDF2==3.0.1
+python-docx==1.1.0
+docx2txt==0.8
+sentence-transformers==2.2.2
+# Note: torch will be installed automatically by sentence-transformers
+# If you have CUDA, you can install: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+# For CPU only: pip install torch torchvision torchaudio
